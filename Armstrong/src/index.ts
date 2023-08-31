@@ -1,4 +1,4 @@
-export function isArmstrong(givenNumber: number): boolean {
+export function isArmstrongNumber(givenNumber: number): boolean {
    if (givenNumber == 0) return false;
 
    let result: number = 0;
